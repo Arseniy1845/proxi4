@@ -1,0 +1,135 @@
+.text1, .text2, .text4 {
+    font-size: 20px;
+    margin-left: 30px;
+    width: 730px;
+    display: inline-block;
+}
+.text2>h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.text1>hr, .text4>hr {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.text1>p, .text1>img {
+    display: inline-block;
+}
+.text1>p {
+    width: 400px;
+    margin-bottom: 20px;
+}
+.text1>img {
+    margin-right: 20px;
+    width: 100px;
+}
+.text2>img {
+    width: 120px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.text2>p {
+    width: 500px;
+    display: inline-block;
+}
+.text2>hr {
+    margin-bottom: 20px;
+}
+#s2 {
+    width: 110px;
+}
+#s3 {
+    width: 250px;
+    margin-top: 15px;
+}
+#s4, #s5 {
+    margin-top: 15px;
+    width: 150px;
+}
+#s1, #s6 {
+    width: 100px;
+}
+#s6 {
+    margin-top: 15px;
+}
+.text3>h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+.text3 {
+    font-size: 20px;
+    margin-left: 20px;
+    width: 1500px;
+    display: inline-block;
+}
+.how {
+    width: 600px;
+    margin-bottom: 30px;
+}
+.how>h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.how>p {
+    width: 400px;
+    display: inline-block;
+}
+.how>img {
+    display: inline-block;
+}
+#m1 {
+    width: 150px;
+    margin-right: 20px;
+}
+#m2 {
+    width: 120px;
+    margin-top: 10px;
+}
+#m3 {
+    width: 120px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+#m4 {
+    width: 100px;
+    margin-top: 10px;
+}
+.footer {
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: rgb(255, 127, 35);
+    margin-top: 630px;
+}
+.c1, .c2, .c3, .c4, .c5, .c6 {
+    display: inline-block;
+}
+.c4, .c5, .c6 {
+    width: 300px;
+}
+.c1, .c2, .c3 {
+    margin-top: 20px;
+}
+.c4 {
+    margin-left: 20px;
+}
+.c1 {
+    width: 120px;
+}
+.c3 {
+    width: 170px;
+}
+.c2 {
+    width: 150px;
+}
+.text4, .text3 {
+    width: 550px;
+    position: absolute;
+    margin-top: 30px;
+}
+.text3 {
+    margin-left: 620px;
+}
